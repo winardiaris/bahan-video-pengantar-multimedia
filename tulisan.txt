@@ -6,31 +6,31 @@ Apa itu multimedia?
 
 
 Multimedia terdiri dari 2 kata yaitu: 
-Multi dan Media
+MULTI dan MEDIA
 
 # MATERI
-Multi berasal dari bahasa latin “multus”, yang artinya banyak, biasa juga diartikan sebagai multipel dan.
+Multi berasal dari bahasa latin “MULTUS”, yang artinya banyak, biasa juga diartikan sebagai MULTIPLE dan.
 
-Media berasal dari bahasa latin “medium” yang artinya tengah, biasa juga diartikan penengah atau intermediary 
+Media berasal dari bahasa latin “MEDIUM” yang artinya tengah, biasa juga diartikan penengah atau intermediary 
 
 
 
 # SCENE 2
 
-Multimedia dalam konteks komputer menurut Hofstetter 2001, adalah: pemanfaatan komputer untuk membuat dan menggabungkan teks, grafik, audio, video, dengan menggunakan tool yang memungkinkan pemakai berinteraksi, berkreasi, dan berkomunikasi.
+Multimedia dalam konteks komputer menurut Hofstetter 2001, adalah: Pemanfaatan komputer untuk membuat dan menggabungkan teks, grafik, audio, video, dengan menggunakan tool yang memungkinkan pemakai berinteraksi, berkreasi, dan berkomunikasi.
 
 
 # SCENE 3
 Multimedia mempunyai 3 jenis, yaitu:
 
 1. Multimedia Interaktif, pengguna dapat mengontrol apa dan kapan elemen-elemen multimedia akan dikirimkan atau ditampilkan
-Contoh: Game, sidi interaktif, apilkasi program, virtual reality, dan lain lain
+Contohnya: Game, CD interaktif, apilkasi program, virtual reality, dan lain lain
 
 2. Multimedia Hiperaktif, multimedia jenis ini mempunyai suatu struktur dari elemen-elemen terkait dengan pengguna yang dapat mengarahkannya. Dapat dikatakan bahwa multimedia jenis ini mempunyai banyak tautan atau link  yang menghubungkan elemen-elemen multimedia yang ada. 
-Contoh:  web site, mobile banking, Game on line, dan lain lain
+Contohnya:  web site, mobile banking, Game on line, dan lain lain
 
 3. Multimedia Linear, pengguna hanya menjadi penonton dan menikmati produk multimedia yang disajikan dari awal hingga akhir
-Contoh: Film, i-book, Musik, dan siaran Televisi
+Contohnya: Film, E-book, Musik, dan Siaran Televisi
 
 
 
