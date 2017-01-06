@@ -1,0 +1,89 @@
+﻿1
+00:00:02,724 --> 00:00:08,386
+Hai saya Otong. 
+  Mahasiswa Teknik informatika di Universitas Pancasila
+
+2
+00:00:12,067 --> 00:00:14,148
+Apa itu multimedia? 
+
+3
+00:00:14,248 --> 00:00:17,663
+Multimedia terdiri dari 2 kata yaitu: 
+
+4
+00:00:17,777 --> 00:00:19,102
+<b>MULTI</b> dan <b>MEDIA</b>
+
+5
+00:00:19,647 --> 00:00:24,263
+Multi berasal dari bahasa latin "<b>MULTUS</b>", yang artinya banyak
+
+6
+00:00:24,582 --> 00:00:28,303
+biasa juga diartikan sebagai <b>MULTIPLE</b> dan.
+
+7
+00:00:28,708 --> 00:00:32,084
+Media berasal dari bahasa latin <b>“MEDIUM”</b> 
+
+8
+00:00:32,124 --> 00:00:37,544
+Yang artinya tengah, biasa juga diartikan atau <b>Intermediary</b>
+
+9
+00:00:43,757 --> 00:00:49,705
+Multimedia dalam konteks komputer  menurut <i>Hofstetter</i> 2001, adalah:
+
+10
+00:00:49,805 --> 00:00:56,523
+Pemanfaatan komputer untuk membuat dan menggabungkan teks, grafik, audio, video, 
+
+11
+00:00:56,896 --> 00:01:03,705
+Dengan menggunakan tool yang memungkinkan pemakai berinteraksi, berkreasi, dan berkomunikasi.
+
+12
+00:01:07,083 --> 00:01:10,660
+Multimedia mempunyai 3 jenis, yaitu:
+
+13
+00:01:10,760 --> 00:01:13,238
+1. <b>Multimedia Interaktif</b>,
+
+14
+00:01:13,338 --> 00:01:20,746
+Pengguna dapat mengontrol apa dan kapan elemen-elemen multimedia akan dikirimkan atau ditampilkan
+
+15
+00:01:20,763 --> 00:01:28,300
+Contohnya: Game, CD interaktif, apilkasi program, virtual reality, dan lain lain
+
+16
+00:01:28,400 --> 00:01:30,999
+2. <b>Multimedia Hiperaktif</b>
+
+17
+00:01:31,061 --> 00:01:39,593
+Multimedia jenis ini mempunyai suatu struktur dari elemen-elemen terkait dengan pengguna yang dapat mengarahkannya.
+
+18
+00:01:39,693 --> 00:01:49,977
+Dapat dikatakan bahwa multimedia jenis ini mempunyai  banyak tautan atau link yang menghubungkan  elemen-elemen multimedia yang ada. 
+
+19
+00:01:50,077 --> 00:01:55,240
+Contohnya:  web site, mobile banking, Game on line, dan lain lain
+
+20
+00:01:55,340 --> 00:01:58,402
+3. <b>Multimedia Linear</b>
+
+21
+00:01:58,502 --> 00:02:05,979
+Pengguna hanya menjadi penonton dan menikmati produk multimedia yang disajikan dari awal hingga akhir
+
+22
+00:02:05,981 --> 00:02:10,612
+Contohnya: Film, eBook, Musik, dan Siaran Televisi 
+
