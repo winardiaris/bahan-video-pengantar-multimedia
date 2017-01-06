@@ -1,0 +1,90 @@
+﻿1
+00:00:02,720 --> 00:00:08,390
+Hi I Otong. 
+ Students Engineering Informatics at the University of Pancasila
+
+2
+00:00:12,070 --> 00:00:14,150
+What is multimedia?
+
+3
+00:00:14,250 --> 00:00:17,660
+Multimedia consists of two words, namely:
+
+4
+00:00:17,780 --> 00:00:19,100
+<b> MULTI </b> and  <b>MEDIA</b>
+
+5
+00:00:19,650 --> 00:00:24,260
+Multi derived from the Latin " <b>MULTUS </b>", which means a lot
+
+6
+00:00:24,580 --> 00:00:28,300
+is also commonly interpreted as  <b>MULTIPLE </b> and.
+
+7
+00:00:28,710 --> 00:00:32,080
+Media comes from the Latin  <b>"MEDIUM" </b>
+
+8
+00:00:32,120 --> 00:00:37,540
+Which means that the center, also commonly interpreted or  <b>Intermediary </b>
+
+9
+00:00:43,760 --> 00:00:49,710
+Multimedia in the context of a computer according  <i>Hofstetter </i> 2001 
+ is:
+
+10
+00:00:49,810 --> 00:00:56,520
+The use of computers to create and combine text, graphics, audio, video,
+
+11
+00:00:56,900 --> 00:01:03,710
+By using the tools that allow users to interact, create, and communicate.
+
+12
+00:01:07,080 --> 00:01:10,660
+Multimedia has three types, namely:
+
+13
+00:01:10,760 --> 00:01:13,240
+1.  <b>Interactive Multimedia</b>
+
+14
+00:01:13,340 --> 00:01:20,750
+The user can control what and when multimedia elements will be transmitted or displayed
+
+15
+00:01:20,760 --> 00:01:28,300
+For example:The Game, an interactive CD, apilkasi programs, virtual reality, and others
+
+16
+00:01:28,400 --> 00:01:30,000
+2.  <b>Hyperactivity Multimedia </b>
+
+17
+00:01:31,060 --> 00:01:39,590
+Multimedia has a structure of this type of elements associated with the user to steer.
+
+18
+00:01:39,690 --> 00:01:49,980
+It can be said that this type of multimedia has many links or links that connect the multimedia elements that exist.
+
+19
+00:01:50,080 --> 00:01:55,240
+For example:web, mobile banking, online games, etc.
+
+20
+00:01:55,340 --> 00:01:58,400
+3.  <b>Linear Multimedia </b>
+
+21
+00:01:58,500 --> 00:02:05,980
+Users simply be a spectator and enjoy multimedia products are served from the beginning to the end
+
+22
+00:02:05,980 --> 00:02:10,610
+For example:Movies, eBooks, Music and Television Broadcast
+

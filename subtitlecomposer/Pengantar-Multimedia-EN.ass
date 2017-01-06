@@ -15,7 +15,7 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:02.72,0:00:08.39,Default,,0000,0000,0000,,Hi I Otong. \N Students Engineering Informatics at the University of Pancasila
 Dialogue: 0,0:00:12.07,0:00:14.15,Default,,0000,0000,0000,,What is multimedia?
 Dialogue: 0,0:00:14.25,0:00:17.66,Default,,0000,0000,0000,,Multimedia consists of two words, namely:
-Dialogue: 0,0:00:17.78,0:00:19.10,Default,,0000,0000,0000,,{\b1} MULTI {\b0} and {\b1 MEDIA} {\b0}
+Dialogue: 0,0:00:17.78,0:00:19.10,Default,,0000,0000,0000,,{\b1} MULTI {\b0} and {\b1} MEDIA{\b0}
 Dialogue: 0,0:00:19.65,0:00:24.26,Default,,0000,0000,0000,,Multi derived from the Latin "{\b1} MULTUS {\b0}", which means a lot
 Dialogue: 0,0:00:24.58,0:00:28.30,Default,,0000,0000,0000,,is also commonly interpreted as {\b1} MULTIPLE {\b0} and.
 Dialogue: 0,0:00:28.71,0:00:32.08,Default,,0000,0000,0000,,Media comes from the Latin {\b1} "MEDIUM" {\b0}
@@ -24,13 +24,13 @@ Dialogue: 0,0:00:43.76,0:00:49.71,Default,,0000,0000,0000,,Multimedia in the con
 Dialogue: 0,0:00:49.81,0:00:56.52,Default,,0000,0000,0000,,The use of computers to create and combine text, graphics, audio, video,
 Dialogue: 0,0:00:56.90,0:01:03.71,Default,,0000,0000,0000,,By using the tools that allow users to interact, create, and communicate.
 Dialogue: 0,0:01:07.08,0:01:10.66,Default,,0000,0000,0000,,Multimedia has three types, namely:
-Dialogue: 0,0:01:10.76,0:01:13:24,Default,,0000,0000,0000,,1. {\b1} {Interactive Multimedia \b0},
+Dialogue: 0,0:01:10.76,0:01:13.24,Default,,0000,0000,0000,,1. {\b1} Interactive Multimedia{\b0}
 Dialogue: 0,0:01:13.34,0:01:20.75,Default,,0000,0000,0000,,The user can control what and when multimedia elements will be transmitted or displayed
 Dialogue: 0,0:01:20.76,0:01:28.30,Default,,0000,0000,0000,,For example:The Game, an interactive CD, apilkasi programs, virtual reality, and others
-Dialogue: 0,0:01:28.40,0:01:30.00,Default,,0000,0000,0000,,2. {\b1} Multimedia Hyperactivity {\b0}
+Dialogue: 0,0:01:28.40,0:01:30.00,Default,,0000,0000,0000,,2. {\b1} Hyperactivity Multimedia {\b0}
 Dialogue: 0,0:01:31.06,0:01:39.59,Default,,0000,0000,0000,,Multimedia has a structure of this type of elements associated with the user to steer.
 Dialogue: 0,0:01:39.69,0:01:49.98,Default,,0000,0000,0000,,It can be said that this type of multimedia has many links or links that connect the multimedia elements that exist.
 Dialogue: 0,0:01:50.08,0:01:55.24,Default,,0000,0000,0000,,For example:web, mobile banking, online games, etc.
-Dialogue: 0,0:01:55.34,0:01:58.40,Default,,0000,0000,0000,,3. {\b1} Multimedia Linear {\b0}
+Dialogue: 0,0:01:55.34,0:01:58.40,Default,,0000,0000,0000,,3. {\b1} Linear Multimedia {\b0}
 Dialogue: 0,0:01:58.50,0:02:05.98,Default,,0000,0000,0000,,Users simply be a spectator and enjoy multimedia products are served from the beginning to the end
 Dialogue: 0,0:02:05.98,0:02:10.61,Default,,0000,0000,0000,,For example:Movies, eBooks, Music and Television Broadcast
